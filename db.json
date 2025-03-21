@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "email": "testadmin@gmail.com",
+      "password": "$2a$10$GNz7oExokvUfKPIaemG.A.9vH5fVkBq42U5TY.Y6CTf69L/zNB1lC",
+      "title": "admin",
+      "role": "admin",
+      "phone": "01122334455",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 16",
+      "image": "615O-NFQKdL._AC_UF1000,1000_QL80_.jpg",
+      "category": "smart phone",
+      "price": 82000,
+      "description": "ram 16Gb , storage 256Gb ",
+      "stock": 2
+    },
+    {
+      "id": 2,
+      "title": "Samsung TV 55Inch",
+      "image": "eg-crystal-uhd-cu7000-ua55cu7000uxeg-535967718.avif",
+      "category": "tvs",
+      "price": 18999,
+      "description": "4K, dual core ",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "title": "Samsung S25 ULtra",
+      "image": "Samsung-Galaxy-S23-5G.webp",
+      "category": "smart phone",
+      "price": 25999,
+      "description": "4K, dual core ",
+      "stock": 5
+    },
+    {
+      "id": 4,
+      "title": "Msi GF557",
+      "image": "MSI-GL63-Gaming-Laptop-15-6-Intel-Core-i7-8750H-NVIDIA-GeForce-GTX-1050-8gb-RAM-256gb-SSD-1TB-HDD_3a04f0fc-6fed-4b52-912c-11317e493ad1_1.9e46d617254b76bff5a4cda944922f78.webp",
+      "category": "labtops",
+      "price": 35599,
+      "description": "ram16, core i9 9600h, rtx 4060ti",
+      "stock": 9
+    },
+    {
+      "id": 5,
+      "title": "Lg TV 55Inch",
+      "image": "01-tv-65-60-55-50-ut80-a-gallery_ar__1.jpg",
+      "category": "tvs",
+      "price": 17999,
+      "description": "4K, dual core ",
+      "stock": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742225769387_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 49,
+      "createAt": "2025-03-17T15:36:09.444Z",
+      "id": 11
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742225954519_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 49,
+      "createAt": "2025-03-17T15:39:14.584Z",
+      "id": 12
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742225963294_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 49,
+      "createAt": "2025-03-17T15:39:23.354Z",
+      "id": 13
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742226103309_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 49,
+      "createAt": "2025-03-17T15:41:43.362Z",
+      "id": 14
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742226106704_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 49,
+      "createAt": "2025-03-17T15:41:46.762Z",
+      "id": 15
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742226674330_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 49,
+      "createAt": "2025-03-17T15:51:14.397Z",
+      "id": 18
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742234816398_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 49,
+      "createAt": "2025-03-17T18:06:56.476Z",
+      "id": 19
+    },
+    {
+      "title": "dsadsa",
+      "image": "1742234830736_js-tt.pdf",
+      "category": "men",
+      "price": 545,
+      "description": "sadasdfdsfsdafdasf",
+      "stock": 7688,
+      "createAt": "2025-03-17T18:07:10.822Z",
+      "id": 20
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "men"
+    },
+    {
+      "id": 2,
+      "title": "women"
+    },
+    {
+      "id": 3,
+      "title": "tvs"
+    },
+    {
+      "id": 4,
+      "title": "smart phones"
+    },
+    {
+      "id": 5,
+      "title": "labtops"
+    },
+    {
+      "title": "baby",
+      "id": 6
+    },
+    {
+      "title": "baby",
+      "id": 7
+    },
+    {
+      "title": "test",
+      "id": 8
+    }
+  ],
+  "wishlists": [
+    {
+      "id": 1,
+      "userId": 3,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "productId": 2
+    },
+    {
+      "id": 1,
+      "userId": 4,
+      "productId": 1
+    },
+    {
+      "userId": 3,
+      "productId": 6,
+      "id": 3
+    }
+  ]
+}
