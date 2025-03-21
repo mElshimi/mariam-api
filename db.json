@@ -1,14 +1,4 @@
 {
-  "users": [
-    {
-      "email": "testadmin@gmail.com",
-      "password": "$2a$10$GNz7oExokvUfKPIaemG.A.9vH5fVkBq42U5TY.Y6CTf69L/zNB1lC",
-      "title": "admin",
-      "role": "admin",
-      "phone": "01122334455",
-      "id": 1
-    }
-  ],
   "products": [
     {
       "id": 1,
@@ -55,21 +45,7 @@
       "description": "4K, dual core ",
       "stock": 5
     },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
+
     {
       "title": "dsadsa",
       "image": "1742225769387_js-tt.pdf",
@@ -185,26 +161,8 @@
       "id": 8
     }
   ],
-  "wishlists": [
-    {
-      "id": 1,
-      "userId": 3,
-      "productId": 1
-    },
-    {
-      "id": 2,
-      "userId": 3,
-      "productId": 2
-    },
-    {
-      "id": 1,
-      "userId": 4,
-      "productId": 1
-    },
-    {
-      "userId": 3,
-      "productId": 6,
-      "id": 3
-    }
-  ]
+  "wishlists": [],
+
+  "cart": [],
+  "ordars": []
 }
